@@ -16,11 +16,11 @@
 int main(void) {
 
 	BSP_System_init();
-	/*
+	
 	init_adc() ;
-    init_timer1();
+   	init_timer1();
 	init_I2C();
-    */
+    
 for(;;){
 
 	Keypad_enable();
