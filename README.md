@@ -16,27 +16,33 @@ Several challenges were encountered during this project. These included configur
 This project strongly aligns with my interests in Embedded Systems, demanding in-depth knowledge of microcontrollers and EEPROM functionality to calculate memory data size and determine the appropriate data rate for meeting the recording period requirements.
 
 ## Parts List:
-- NUCLEO-G031K8 (110TL)
-- JUMPER CABLE (X30) (10TL)
-- RESİSTANCE 1 kΩ (X9) (1.5TL)
-- 4xSEVEN SEGMENT (X1) (7TL)
-- 4x4KEYPAD (10TL)
-- TRANSİSTOR (X4) (1TL)
-- BREADBOARD (X1) (10TL)
-- 24LC512 I2C EEPROM (X2) (8TL)
-- SPEAKER (X1) (7TL)
-- LM386 LOWER POWER AMP (X1) (2.5TL)
-- ANALOG MICROPHONE (X1) (8TL)
-- Pot 100K (X1) (3TL)
-- CAPACITORS 1uF 220uF (X1) (1.5TL)
+- NUCLEO-G031K8
+- JUMPER CABLE (X30)
+- RESİSTANCE 1 kΩ (X9)
+- 4xSEVEN SEGMENT (X1)
+- 4x4KEYPAD
+- TRANSİSTOR (X4)
+- BREADBOARD (X1)
+- 24LC512 I2C EEPROM (X2)
+- SPEAKER (X1)
+- LM386 LOWER POWER AMP (X1)
+- ANALOG MICROPHONE (X1)
+- Pot 100K (X1)
+- CAPACITORS 1uF 220uF (X1)
 
-## Project Setup:
+## Schematic:
 ![Setup](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/8dada204-f120-417e-b8de-bd6992010031)
 
-## Flow chart:
+## Flow Chart:
+![FlowChart](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/2f35aa73-0262-4bef-ba1f-7f954c6fc445)
 
+## Block Diagram:
+![BlockDiagram](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/ade3f807-0883-4b4b-8e7f-2faad14eba53)
 
-## Block diagram:
+## State Transition Diagram:
+![State transition diagram](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/6099e445-e19e-4d1e-bf65-c85175eb99f7)
 
+## Setup:
+![WhatsApp Image 2021-01-14 at 8 22 11 PM](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/3cf51e59-75b7-4878-b4df-fbfc68fa9df8)
+![WhatsApp Image 2021-01-14 at 8 22 10 PM](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/4669c997-6665-452e-a036-c69a743b5f0c)
 
-## State transition diagram:
