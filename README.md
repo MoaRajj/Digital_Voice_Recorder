@@ -14,3 +14,29 @@ Several challenges were encountered during this project. These included configur
 
 ## Relevance:
 This project strongly aligns with my interests in Embedded Systems, demanding in-depth knowledge of microcontrollers and EEPROM functionality to calculate memory data size and determine the appropriate data rate for meeting the recording period requirements.
+
+## Parts List:
+- NUCLEO-G031K8 (110TL)
+- JUMPER CABLE (X30) (10TL)
+- RESİSTANCE 1 kΩ (X9) (1.5TL)
+- 4xSEVEN SEGMENT (X1) (7TL)
+- 4x4KEYPAD (10TL)
+- TRANSİSTOR (X4) (1TL)
+- BREADBOARD (X1) (10TL)
+- 24LC512 I2C EEPROM (X2) (8TL)
+- SPEAKER (X1) (7TL)
+- LM386 LOWER POWER AMP (X1) (2.5TL)
+- ANALOG MICROPHONE (X1) (8TL)
+- Pot 100K (X1) (3TL)
+- CAPACITORS 1uF 220uF (X1) (1.5TL)
+
+## Project Setup:
+![Setup](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/8dada204-f120-417e-b8de-bd6992010031)
+
+## Flow chart:
+
+
+## Block diagram:
+
+
+## State transition diagram:
