@@ -28,18 +28,17 @@ Several challenges were encountered during this project. These included configur
 - CAPACITORS 1uF 220uF (X1)
 
 ## Schematic:
-![Setup](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/8dada204-f120-417e-b8de-bd6992010031)
+![setup](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/8b9a29c0-c9c8-492a-8ae3-353a4eb3e71d)
 
 ## Flow Chart:
-![FlowChart](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/2f35aa73-0262-4bef-ba1f-7f954c6fc445)
+![FlowChart](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/5d688424-f176-4f22-b9bb-52402ed47ab0)
 
 ## Block Diagram:
-![BlockDiagram](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/ade3f807-0883-4b4b-8e7f-2faad14eba53)
+![BlockDiagram](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/c27c6122-9bb0-4bcb-a2fb-d791cf221873)
 
 ## State Transition Diagram:
-![State transition diagram](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/6099e445-e19e-4d1e-bf65-c85175eb99f7)
+![State transition diagram](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/acc84bb5-6263-42f3-84b4-122a8d0e8709)
 
 ## Setup:
-![WhatsApp Image 2021-01-14 at 8 22 11 PM](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/3cf51e59-75b7-4878-b4df-fbfc68fa9df8)
-![WhatsApp Image 2021-01-14 at 8 22 10 PM](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/4669c997-6665-452e-a036-c69a743b5f0c)
-
+![WhatsApp Image 2021-01-14 at 8 22 11 PM](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/63599729-bd94-4d1a-baf1-310a8d9c4525)
+![WhatsApp Image 2021-01-14 at 8 22 10 PM](https://github.com/MoaRajj/Digital_Voice_Recorder/assets/93192572/6b2abec6-d791-4a65-a5c9-7aa113e1531b)
