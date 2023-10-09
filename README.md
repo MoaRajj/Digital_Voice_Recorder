@@ -12,9 +12,6 @@ The outcome of this project is a user-friendly digital voice recorder. It featur
 ## Challenges:
 Several challenges were encountered during this project. These included configuring PWM and ADC functionalities, which required significant troubleshooting. Ensuring clear and comprehensible audio recordings, addressing display flickering, and managing brightness differences on the 7-segment displays were also notable challenges that were overcome.
 
-## Relevance:
-This project strongly aligns with my interests in Embedded Systems, demanding in-depth knowledge of microcontrollers and EEPROM functionality to calculate memory data size and determine the appropriate data rate for meeting the recording period requirements.
-
 ## Parts List:
 - NUCLEO-G031K8
 - JUMPER CABLE (X30)
